@@ -1,8 +1,8 @@
-
+#!/bash
 
 python server.py &
 
-sleep 2
+sleep 
 
 python client.py &
 
